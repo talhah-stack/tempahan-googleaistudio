@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Tempahan Bilik Mesyuarat",
+  "description": "Sistem tempahan bilik mesyuarat pintar dengan semakan pertindihan masa (anti-overlapping), modul kelulusan admin, kalendar interaktif, dan integrasi pangkalan data MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
